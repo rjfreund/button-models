@@ -1,7 +1,7 @@
 {
-  "name": "button-models",
+  "name": "@rjfreund/button-models",
   "version": "1.0.0",
-  "description": "models for button application",
+  "description": "Models for button project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
