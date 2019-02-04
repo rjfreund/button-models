@@ -4,7 +4,8 @@
   "description": "Models for button project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rjfreund/button-models/issues"
   },
-  "homepage": "https://github.com/rjfreund/button-models#readme"
+  "homepage": "https://github.com/rjfreund/button-models#readme",
+  "devDependencies": {
+    "typescript": "^3.3.1"
+  }
 }
